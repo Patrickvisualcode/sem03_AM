@@ -1,4 +1,4 @@
-// EJERCICIO05
+// EJERCICIO05 - CODIGO
 
 mixin ValidacionVoto {
   void validarVoto(int edad) {
